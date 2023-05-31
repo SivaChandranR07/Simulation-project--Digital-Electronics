@@ -1,4 +1,4 @@
-# TITTLE
+# TITLE
 To Design and simulate mod 5 synchronous upcounter with JK flip flop using Verilog.
 
 # THEORY
